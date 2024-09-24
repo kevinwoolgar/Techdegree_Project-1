@@ -1,2 +1,2 @@
-# Techdegree Project 1
- My first Techdegree project
+# Landing Page - Project 1
+ My first landing page.
